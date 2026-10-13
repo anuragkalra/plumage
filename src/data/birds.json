@@ -1,0 +1,258 @@
+[
+  {
+    "slug": "northern-cardinal",
+    "name": "Northern Cardinal",
+    "scientific": "Cardinalis cardinalis",
+    "stops": [
+      { "part": "Bill", "hex": "#EF7B45" },
+      { "part": "Mask", "hex": "#221C1C" },
+      { "part": "Crest", "hex": "#D42A2F" },
+      { "part": "Back", "hex": "#A3262B" },
+      { "part": "Tail", "hex": "#6E1F23" }
+    ],
+    "note": "A year-round resident; the male keeps his red straight through a gray February."
+  },
+  {
+    "slug": "blue-jay",
+    "name": "Blue Jay",
+    "scientific": "Cyanocitta cristata",
+    "stops": [
+      { "part": "Crest", "hex": "#6A9AD6" },
+      { "part": "Necklace", "hex": "#1F2230" },
+      { "part": "Breast", "hex": "#E6E8EC" },
+      { "part": "Wing", "hex": "#3A73C8" },
+      { "part": "Tail", "hex": "#24497F" }
+    ],
+    "note": "The blue is structural, not pigment — crush a feather and it turns brown."
+  },
+  {
+    "slug": "american-goldfinch",
+    "name": "American Goldfinch",
+    "scientific": "Spinus tristis",
+    "stops": [
+      { "part": "Cap", "hex": "#1C1B18" },
+      { "part": "Face", "hex": "#F7D417" },
+      { "part": "Back", "hex": "#EDBE12" },
+      { "part": "Wing bar", "hex": "#F1EEE2" },
+      { "part": "Wing", "hex": "#2A2925" }
+    ],
+    "note": "Molts into this lemon yellow each spring and back to olive drab by fall."
+  },
+  {
+    "slug": "cedar-waxwing",
+    "name": "Cedar Waxwing",
+    "scientific": "Bombycilla cedrorum",
+    "stops": [
+      { "part": "Mask", "hex": "#1E1B1D" },
+      { "part": "Crest", "hex": "#A97F59" },
+      { "part": "Breast", "hex": "#CDAE88" },
+      { "part": "Wax tips", "hex": "#C53A2E" },
+      { "part": "Tail band", "hex": "#F2C230" }
+    ],
+    "note": "Named for the red, wax-like tips on its secondary feathers."
+  },
+  {
+    "slug": "baltimore-oriole",
+    "name": "Baltimore Oriole",
+    "scientific": "Icterus galbula",
+    "stops": [
+      { "part": "Hood", "hex": "#171515" },
+      { "part": "Shoulder", "hex": "#F28A1E" },
+      { "part": "Breast", "hex": "#F46A16" },
+      { "part": "Belly", "hex": "#F9A63B" }
+    ],
+    "note": "Arrives in May and weaves a hanging sock of a nest high in the elms."
+  },
+  {
+    "slug": "eastern-bluebird",
+    "name": "Eastern Bluebird",
+    "scientific": "Sialia sialis",
+    "stops": [
+      { "part": "Crown", "hex": "#2D61B3" },
+      { "part": "Wing", "hex": "#4B88D6" },
+      { "part": "Throat", "hex": "#C56A3D" },
+      { "part": "Breast", "hex": "#DB8A55" },
+      { "part": "Belly", "hex": "#F1EDE4" }
+    ],
+    "note": "Nest-box trails across the state brought it back from a steep decline."
+  },
+  {
+    "slug": "red-winged-blackbird",
+    "name": "Red-winged Blackbird",
+    "scientific": "Agelaius phoeniceus",
+    "stops": [
+      { "part": "Head", "hex": "#141414" },
+      { "part": "Epaulet", "hex": "#DD2A1E" },
+      { "part": "Wing bar", "hex": "#F2C438" },
+      { "part": "Tail", "hex": "#1B1B1D" }
+    ],
+    "note": "The first loud sign of spring in every cattail marsh along the Sound."
+  },
+  {
+    "slug": "black-capped-chickadee",
+    "name": "Black-capped Chickadee",
+    "scientific": "Poecile atricapillus",
+    "stops": [
+      { "part": "Cap", "hex": "#1B1B1B" },
+      { "part": "Cheek", "hex": "#F3F1EB" },
+      { "part": "Flank", "hex": "#D6B88F" },
+      { "part": "Back", "hex": "#8F908C" },
+      { "part": "Tail", "hex": "#5E605E" }
+    ],
+    "note": "More dee notes in its call means a bigger threat nearby."
+  },
+  {
+    "slug": "tufted-titmouse",
+    "name": "Tufted Titmouse",
+    "scientific": "Baeolophus bicolor",
+    "stops": [
+      { "part": "Forehead", "hex": "#26262A" },
+      { "part": "Crest", "hex": "#8E9198" },
+      { "part": "Back", "hex": "#9DA0A6" },
+      { "part": "Breast", "hex": "#ECEBE7" },
+      { "part": "Flank", "hex": "#D49866" }
+    ],
+    "note": "Plucks hair from sleeping raccoons and dogs to line its nest."
+  },
+  {
+    "slug": "mourning-dove",
+    "name": "Mourning Dove",
+    "scientific": "Zenaida macroura",
+    "stops": [
+      { "part": "Crown", "hex": "#A7A4A6" },
+      { "part": "Neck", "hex": "#C7A1A0" },
+      { "part": "Breast", "hex": "#CFB09A" },
+      { "part": "Wing", "hex": "#A18D7A" },
+      { "part": "Tail", "hex": "#7F8590" }
+    ],
+    "note": "Its wings whistle on takeoff — an alarm the whole flock understands."
+  },
+  {
+    "slug": "american-robin",
+    "name": "American Robin",
+    "scientific": "Turdus migratorius",
+    "stops": [
+      { "part": "Head", "hex": "#2B2826" },
+      { "part": "Breast", "hex": "#D2622C" },
+      { "part": "Belly", "hex": "#ECE6DC" },
+      { "part": "Back", "hex": "#6E655E" }
+    ],
+    "note": "Connecticut's state bird, and many winter here rather than flying south."
+  },
+  {
+    "slug": "wood-duck",
+    "name": "Wood Duck",
+    "scientific": "Aix sponsa",
+    "stops": [
+      { "part": "Crown", "hex": "#1F5E4B" },
+      { "part": "Crest", "hex": "#3E2F6E" },
+      { "part": "Eye", "hex": "#C7322D" },
+      { "part": "Chest", "hex": "#7D3127" },
+      { "part": "Flank", "hex": "#CFB074" }
+    ],
+    "note": "Ducklings leap from tree cavities fifty feet up, a day after hatching."
+  },
+  {
+    "slug": "scarlet-tanager",
+    "name": "Scarlet Tanager",
+    "scientific": "Piranga olivacea",
+    "stops": [
+      { "part": "Head", "hex": "#E8301F" },
+      { "part": "Breast", "hex": "#DF2318" },
+      { "part": "Wing", "hex": "#161414" },
+      { "part": "Tail", "hex": "#201D1C" }
+    ],
+    "note": "Hard to spot despite the red — it keeps to the high oak canopy."
+  },
+  {
+    "slug": "common-yellowthroat",
+    "name": "Common Yellowthroat",
+    "scientific": "Geothlypis trichas",
+    "stops": [
+      { "part": "Mask", "hex": "#1C1B17" },
+      { "part": "Brow", "hex": "#E6E3D6" },
+      { "part": "Throat", "hex": "#F4D11F" },
+      { "part": "Belly", "hex": "#EDE0A0" },
+      { "part": "Back", "hex": "#878743" }
+    ],
+    "note": "A masked warbler of wet thickets, singing witchety-witchety-witchety."
+  },
+  {
+    "slug": "downy-woodpecker",
+    "name": "Downy Woodpecker",
+    "scientific": "Dryobates pubescens",
+    "stops": [
+      { "part": "Nape", "hex": "#CF2B2A" },
+      { "part": "Crown", "hex": "#171717" },
+      { "part": "Cheek", "hex": "#F3F2EE" },
+      { "part": "Wing", "hex": "#1E1E1E" },
+      { "part": "Belly", "hex": "#E6E4DE" }
+    ],
+    "note": "The smallest woodpecker in North America, and a suet-feeder regular."
+  },
+  {
+    "slug": "northern-flicker",
+    "name": "Northern Flicker",
+    "scientific": "Colaptes auratus",
+    "stops": [
+      { "part": "Nape", "hex": "#C7302A" },
+      { "part": "Crown", "hex": "#8D8F90" },
+      { "part": "Face", "hex": "#D6B38F" },
+      { "part": "Bib", "hex": "#1C1816" },
+      { "part": "Wing shafts", "hex": "#F0C02F" }
+    ],
+    "note": "A woodpecker that feeds on the ground, mostly on ants."
+  },
+  {
+    "slug": "gray-catbird",
+    "name": "Gray Catbird",
+    "scientific": "Dumetella carolinensis",
+    "stops": [
+      { "part": "Cap", "hex": "#1D1D20" },
+      { "part": "Face", "hex": "#7A7E84" },
+      { "part": "Body", "hex": "#666A70" },
+      { "part": "Tail", "hex": "#2A2A2D" },
+      { "part": "Undertail", "hex": "#93412C" }
+    ],
+    "note": "Mews like a cat from the hedge, then runs through borrowed songs."
+  },
+  {
+    "slug": "song-sparrow",
+    "name": "Song Sparrow",
+    "scientific": "Melospiza melodia",
+    "stops": [
+      { "part": "Crown", "hex": "#7B4B33" },
+      { "part": "Brow", "hex": "#B2ACA0" },
+      { "part": "Back", "hex": "#8C6849" },
+      { "part": "Streak", "hex": "#4A3326" },
+      { "part": "Breast", "hex": "#EDE7DA" }
+    ],
+    "note": "Look for the dark central spot where the breast streaks converge."
+  },
+  {
+    "slug": "ruby-throated-hummingbird",
+    "name": "Ruby-throated Hummingbird",
+    "scientific": "Archilochus colubris",
+    "stops": [
+      { "part": "Crown", "hex": "#2E6B48" },
+      { "part": "Gorget", "hex": "#B8132F" },
+      { "part": "Collar", "hex": "#EEEBE3" },
+      { "part": "Back", "hex": "#4E8C52" },
+      { "part": "Tail", "hex": "#2A3B33" }
+    ],
+    "note": "The only hummingbird that nests in the East; it crosses the Gulf nonstop."
+  },
+  {
+    "slug": "indigo-bunting",
+    "name": "Indigo Bunting",
+    "scientific": "Passerina cyanea",
+    "stops": [
+      { "part": "Head", "hex": "#23349A" },
+      { "part": "Throat", "hex": "#2F55C2" },
+      { "part": "Back", "hex": "#3A6AD1" },
+      { "part": "Wing", "hex": "#1E2B66" },
+      { "part": "Tail", "hex": "#141A3A" }
+    ],
+    "note": "Navigates its night migration by the rotation of the stars."
+  }
+]
